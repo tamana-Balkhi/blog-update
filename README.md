@@ -102,7 +102,7 @@ Clone this repository to your desired folder:
 ```sh
   git clone https://github.com/tamana-Balkhi/blog-update.git
   
-  cd blog-app
+  cd blog-update
 ```
 
 ### Install
@@ -178,7 +178,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please give ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
