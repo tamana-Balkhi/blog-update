@@ -188,7 +188,8 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank microverse for giving me this opportunity to learn and grow as a developer.
+and also to my coding partners for their support and encouragement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
