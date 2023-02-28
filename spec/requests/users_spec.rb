@@ -6,7 +6,6 @@ RSpec.describe 'Users', type: :request do
       get users_path
     end
 
-
     it 'returns http success' do
       get '/users/index'
       expect(response).to have_http_status(:success)
@@ -20,7 +19,6 @@ RSpec.describe 'Users', type: :request do
       expect(response.body).to include('Here is a user index page')
     end
   end
-
 
   describe 'GET /show' do
     before(:each) do
