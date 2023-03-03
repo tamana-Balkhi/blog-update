@@ -10,7 +10,7 @@ class User < ApplicationRecord
     posts.order('created_at Desc').limit(3)
   end
 
-   def all_posts
+  def all_posts
     posts.order('created_at Desc')
   end
 end
