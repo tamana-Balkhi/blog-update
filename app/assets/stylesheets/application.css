@@ -89,3 +89,21 @@ header {
 .post-mini small {
   align-self: flex-end;
 }
+form {
+  margin-left: 30vw;
+}
+
+form input {
+  width: 30vw;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+form textarea {
+  width: 30vw;
+  padding: 20px;
+}
+.head{
+  margin-left: 40vw;
+}
+
