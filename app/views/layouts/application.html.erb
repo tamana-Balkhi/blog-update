@@ -11,16 +11,11 @@
   </head>
 
   <body>
-   <header>
-      <div>
-        Logo placeholder
-      </div>
-      <ul>
-        <li>
-          <a href="/">Users index</a>
-        </li>
-      </ul>
-    </header>
+     <p class="notice"><%= notice %></p>
+       <p class="alert"><%= alert %></p>
+       <% if user_signed_in? %>
+    <%= link_to 'sign out' ,destroy_user_session_path, method: :delete %>
+    <% end %>
     <%= yield %>
   </body>
 </html>
