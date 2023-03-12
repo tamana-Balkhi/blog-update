@@ -89,6 +89,7 @@ header {
 .post-mini small {
   align-self: flex-end;
 }
+
 form {
   margin-left: 30vw;
 }
@@ -103,7 +104,7 @@ form textarea {
   width: 30vw;
   padding: 20px;
 }
-.head{
+
+.head {
   margin-left: 40vw;
 }
-
